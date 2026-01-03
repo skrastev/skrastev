@@ -14,7 +14,6 @@ Cloud & Infrastructure Architect with hands-on experience in **AWS** and **GCP**
 ---
 
 ## 📐 Cloud Architecture Case Studies
-## 📐 Cloud Architecture Case Studies
 A collection of **real-world cloud projects I have designed and implemented**, presented as architecture-focused case studies highlighting context, decisions, and impact.
 
 👉 **Main repository:**  
