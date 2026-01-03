@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Stanimir Krastev - Stam
 
-<!--
-**skrastev/skrastev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Infrastructure Architect with hands-on experience in **AWS** and **GCP**, focused on secure, scalable architectures, automation, and practical AI solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I do
+- 🏗️ Cloud architecture on **AWS & GCP**
+- ⚙️ Infrastructure as Code with **Terraform**
+- 🚀 CI/CD and automation with **GitHub Actions**
+- 🤖 AI agents & RAG solutions for cloud operations
+- 🔐 Secure access patterns and least-privilege design
+
+---
+
+## 📐 Cloud Architecture Case Studies
+I document real-world cloud designs as **architecture-focused case studies**, covering context, decisions, and impact.
+
+👉 **Main repository:**  
+https://github.com/skrastev/cloud-architecture
+
+---
+
+## 🛠️ Tech Stack
+**Cloud:** AWS, GCP  
+**IaC:** Terraform  
+**Languages:** Python, Bash  
+**DevOps:** GitHub Actions, Docker
+**Databases:** PostgreSQL  
+**AI:** RAG, AI agents, LLM integrations
+
+---
+
+## 🌍 About me
+- Based in **EU*
+- Open to **Cloud / DevOps / AI Architecture** roles
+- Strong focus on **security, clarity, and maintainability**
+
+---
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/stanimirkrastev
+- Email: stam@stambata.com
+
+---
+
+> Architecture is about tradeoffs, not tools.
