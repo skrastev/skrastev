@@ -34,7 +34,7 @@ https://github.com/skrastev/cloud-architecture
 
 ## About me
 
-Based in the EU, looking for cloud/solution architecture roles where I can design systems and see them through to production. I believe good architecture is useless if it never ships, and DevOps without architecture is just automated chaos.
+Based in the EU, looking for cloud/solution architecture projects where I can design systems and see them through to production. I believe good architecture is useless if it never ships, and DevOps without architecture is just automated chaos.
 
 What I care about: secure by design, cost-effective solutions, systems that don't fall apart when you look at them wrong.
 
