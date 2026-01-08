@@ -4,14 +4,14 @@ I'm a cloud architect who designs systems on AWS and GCP—then actually builds 
 
 ## What I do
 
-I design cloud architectures, then implement them properly:
-- Architecting AWS solutions—VPCs, multi-account setups, serverless patterns, the works
-- Translating architecture diagrams into Terraform that teams can maintain
-- Designing for security from day one (least privilege, zero trust, proper secrets management)
-- Building CI/CD pipelines that match the architecture, not fight it
-- Writing AI agents with Google's ADK framework for cloud automation and operations
-- Creating MCP servers and clients to connect AI agents with real infrastructure
-- Implementing RAG systems that actually understand your cloud setup
+I help teams design cloud systems that make sense on paper and work in real life.
+- I design AWS architectures and then actually build them — not just diagrams
+- I automate infrastructure using the right tools for the job: Terraform, CloudFormation, Bash, Ansible, and more
+- I design systems that are secure by default: least privilege, zero trust thinking, and proper secrets management
+- I build CI/CD pipelines that support the architecture instead of constantly fighting it
+- I build AI agents using Google’s ADK to automate cloud operations and decision-making
+- I connect AI agents to real infrastructure using MCP servers and clients
+- I design RAG systems that understand how your cloud is really set up, not just what the documentation says
 
 The approach: start with solid architecture principles, then use DevOps practices to implement and maintain it. Not the other way around.
 
