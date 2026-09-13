@@ -1,41 +1,107 @@
 # Hey, I'm Stanimir (Stam) 👋
 
-I'm a cloud architect who designs systems on AWS and GCP—then actually builds them. Architecture comes first, DevOps practices are how I make it real.
+**AWS Cloud & Agentic AI Architect | AWS Infrastructure Engineer**
+
+I design and build cloud infrastructure, with a growing focus on the infrastructure layer behind production AI agents — how agents securely access tools, cloud platforms, code repositories, data and enterprise systems.
+
+My background is in cloud architecture, infrastructure, DevOps and security. I work mainly with **AWS**, and I’m currently exploring how technologies such as **MCP, Strands Agents, Amazon Bedrock and agentic infrastructure** change the way we design and operate production systems.
 
 ## What I do
 
-I help teams design cloud systems that make sense on paper and work in real life.
-- I design AWS architectures and then actually build them — not just diagrams
-- I automate infrastructure using the right tools for the job: Terraform, CloudFormation, Bash, Ansible, and more
-- I design systems that are secure by default: least privilege, zero trust thinking, and proper secrets management
-- I build CI/CD pipelines that support the architecture instead of constantly fighting it
-- I build AI agents using Google’s ADK to automate cloud operations and decision-making
-- I connect AI agents to real infrastructure using MCP servers and clients
-- I design RAG systems that understand how your cloud is really set up, not just what the documentation says
+I design systems that make sense on an architecture diagram — and still work when they reach production.
 
-The approach: start with solid architecture principles, then use DevOps practices to implement and maintain it. Not the other way around.
+- Design and build AWS cloud architectures
+- Build infrastructure with Terraform and Infrastructure as Code
+- Design secure cloud environments around IAM, least privilege, secrets and identity
+- Build CI/CD and deployment workflows
+- Design container platforms with Docker, ECS and Kubernetes
+- Build and integrate AI agents with real infrastructure
+- Connect agents to tools and enterprise systems using MCP
+- Explore agent identity, authorization, governance and human approval patterns
+- Design RAG and AI application architectures
+- Build observability and operational controls around production workloads
 
-## Real projects, real decisions
+My approach is simple:
 
-I document actual cloud systems I've architected and built—the context, the tradeoffs, what worked and what I'd change.
+**Architecture first. Automation second. Production always.**
 
-**Cloud Architecture Case Studies:**  
+## What I'm exploring now
+
+### Agentic AI Infrastructure
+
+I'm particularly interested in what happens when AI agents move from experiments into real enterprise environments.
+
+Some of the questions I'm working on:
+
+- How should an agent authenticate to enterprise systems?
+- Whose identity should an agent use?
+- How should temporary credentials and delegated access work?
+- How should MCP servers be discovered and governed?
+- Where should human approval be required?
+- How should agent actions be audited?
+- How should MCP servers be deployed, scaled and observed?
+- What should an enterprise AI control plane actually control?
+
+My current focus includes:
+
+**MCP · Strands Agents · Amazon Bedrock · AWS · Agent Infrastructure · Agent Identity · Governance · Observability**
+
+## Cloud Architecture
+
+I have spent most of my career around infrastructure, networking, security and cloud platforms.
+
+Today my primary cloud is **AWS**, alongside experience with GCP and Azure.
+
+I don't believe architecture should stop at diagrams. I like following systems through infrastructure, automation, deployment and production operations.
+
+### Cloud Architecture Case Studies
+
+I document real architecture decisions, trade-offs and lessons from systems I've designed and built:
+
 https://github.com/skrastev/cloud-architecture
 
 ## My toolbox
 
-**Cloud architecture:** AWS (primary), GCP  
-**AWS services:** EC2, Lambda, RDS, S3, CloudFront, Route53, Cognito, API Gatewaay, VPC, IAM, EventBridge, you name it  
-**Infrastructure as Code:** Terraform  
-**Automation & CI/CD:** GitHub Actions, Docker  
-**Languages:** Python, Bash  
-**Data layer:** PostgreSQL, Mysql, DynamoDB
-**AI frameworks:** Google ADK (Agent Development Kit), MCP protocol, RAG pipelines, LLM integrations
+**Cloud**  
+AWS · GCP · Azure
 
-## About me
+**AWS**  
+VPC · IAM · ECS · EKS · Lambda · RDS · S3 · CloudFront · Route 53 · Cognito · API Gateway · EventBridge · Bedrock · CloudWatch
 
-Based in the EU, looking for cloud/solution architecture projects where I can design systems and see them through to production. I believe good architecture is useless if it never ships, and DevOps without architecture is just automated chaos.
+**Infrastructure**  
+Terraform · CloudFormation · Ansible · Docker · Kubernetes
 
-What I care about: secure by design, cost-effective solutions, systems that don't fall apart when you look at them wrong.
+**CI/CD & Automation**  
+GitHub Actions · AWS deployment workflows · Bash · Python
 
-If you want to discuss AWS architecture patterns, multi-region strategies, AI agents for cloud ops, or how MCP and ADK fit into real infrastructure—let's talk.
+**Security**  
+IAM · Least Privilege · Secrets Management · Cloud Security · Security-by-Design
+
+**Data**  
+PostgreSQL · pgvector · DynamoDB · MySQL
+
+**Agentic AI**  
+MCP · Strands Agents · Amazon Bedrock · RAG · LLM integrations · Agent tools · Agent infrastructure
+
+## What I'm interested in building
+
+I'm especially interested in the intersection between:
+
+**Cloud Infrastructure × Agentic AI × Security**
+
+That includes:
+
+- Enterprise agent platforms
+- MCP infrastructure and gateways
+- Agent identity and authorization
+- Agent observability
+- Secure DevOps agents
+- AI-assisted cloud operations
+- Agent-driven software delivery
+- Human-in-the-loop infrastructure automation
+
+## Let's connect
+
+If you're working on **AWS, MCP, Strands Agents, enterprise AI agents, agent infrastructure, cloud architecture or AI-driven DevOps**, I'd be happy to exchange ideas.
+
+LinkedIn: https://www.linkedin.com/in/stanimirkrastev/
